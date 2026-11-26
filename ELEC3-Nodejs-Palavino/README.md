@@ -37,7 +37,7 @@ npm install
 npm start
 ```
 
-![N1 output](set1/n1-setup/screenshots/n1_output.png)
+
 
 ### N2 – Modular Calculator
 
@@ -48,7 +48,6 @@ node index.js average 85 90 78
 node index.js divide 10 0
 ```
 
-![N2 output](set1/n2-calculator/screenshots/n2_output.png)
 
 ### N3 – File Manager with fs and path
 
@@ -61,7 +60,6 @@ node index.js delete sample.txt
 node index.js list
 ```
 
-![N3 output](set1/n3-file-manager/screenshots/n3_output.png)
 
 ## Set 2
 
@@ -73,7 +71,6 @@ node server.js
 # open http://localhost:8000
 ```
 
-![N4 output](set2/n4-server/screenshots/n4_output.png)
 
 ### N5 – REST-style API
 
@@ -83,7 +80,6 @@ node server.js
 # test http://localhost:8000/api/students
 ```
 
-![N5 output](set2/n5-api/screenshots/n5_output.png)
 
 ### N6 – Middleware and API Testing
 
@@ -93,4 +89,4 @@ node server.js
 # test with Thunder Client or Postman
 ```
 
-![N6 output](set2/n6-middleware/screenshots/n6_output.png)
+
