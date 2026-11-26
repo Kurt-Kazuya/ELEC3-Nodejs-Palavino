@@ -1,7 +1,7 @@
 // Name: KURT PALAVINO
 // Section: IV-BSIT B
 // Activity: N2 - Modular Calculator
-// Date: November 24, 2026
+
 
 function add(a, b) {
   return a + b;

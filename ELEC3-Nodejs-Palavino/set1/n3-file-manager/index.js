@@ -1,7 +1,6 @@
-// Name: YOUR FULL NAME
-// Section: IV-BSIT X
+// Name: KURT PALAVINO
+// Section: IV-BSIT B
 // Activity: N3 - File Manager with fs and path
-// Date: November 25, 2026
 
 const fs = require('fs');
 const path = require('path');

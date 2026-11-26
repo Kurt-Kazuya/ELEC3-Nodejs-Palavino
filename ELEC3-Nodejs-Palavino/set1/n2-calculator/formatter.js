@@ -1,7 +1,7 @@
-// Name: YOUR FULL NAME
-// Section: IV-BSIT X
+// Name: KURT PALAVINO
+// Section: IV-BSIT B
 // Activity: N2 - Modular Calculator
-// Date: November 24, 2026
+
 
 const symbols = {
   add: '+',
