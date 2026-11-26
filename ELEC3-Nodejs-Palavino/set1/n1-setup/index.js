@@ -1,11 +1,11 @@
-// Name: YOUR FULL NAME
-// Section: IV-BSIT X
+// Name: KURT PALAVINO
+// Section: IV-BSIT B
 // Activity: N1 - Project Setup and Package Management
 // Date: November 23, 2026
 
 const dayjs = require('dayjs');
 
-const name = 'YOUR FULL NAME';
+const name = 'KURT PALAVINO';
 const today = dayjs().format('MMMM D, YYYY h:mm A');
 
 console.log(`Hello! My name is ${name}.`);

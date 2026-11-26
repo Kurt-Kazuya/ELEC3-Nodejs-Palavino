@@ -7,7 +7,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "YOUR FULL NAME",
+  "author": "Kurt Palavino",
   "license": "ISC",
   "dependencies": {
     "dayjs": "^1.11.23"
