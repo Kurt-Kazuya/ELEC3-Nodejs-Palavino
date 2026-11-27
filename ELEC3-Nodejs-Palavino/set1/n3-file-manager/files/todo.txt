@@ -1,2 +1,0 @@
-1. Finish N3 activity
-2. Push to GitHub
