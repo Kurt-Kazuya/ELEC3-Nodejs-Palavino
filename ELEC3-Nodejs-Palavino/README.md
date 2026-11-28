@@ -1,9 +1,9 @@
 # ELEC 3 – Node.js
 
-- **Name:** YOUR FULL NAME
-- **Section:** IV-BSIT X
-- **Course:** ELEC 3 – Node.js
-- **Instructor:** Carl Gustaf Patrik B. Ferrer
+- Name: KURT PALAVINO
+- Section: IV-BSIT B
+- Course: ELEC 3 – Node.js
+-*Instructor: Carl Gustaf Patrik B. Ferrer
 
 ## Activities
 
@@ -15,17 +15,9 @@
 | N2 | Modular Calculator | Calculator split into operations.js and formatter.js, reads input from process.argv | [set1/n2-calculator](set1/n2-calculator) |
 | N3 | File Manager with fs and path | Create, read, update, delete, and list text files inside the files folder | [set1/n3-file-manager](set1/n3-file-manager) |
 
-### Set 2
-
-| Activity | Title | Description | Folder |
-|---|---|---|---|
-| N4 | Basic HTTP Server | http server on port 8000 with /, /about, /contact, and a 404 page | [set2/n4-server](set2/n4-server) |
-| N5 | REST-style API | Students API with GET, POST, PUT, and DELETE using JSON | [set2/n5-api](set2/n5-api) |
-| N6 | Middleware and API Testing | N5 API with a logger middleware and a JSON header middleware | [set2/n6-middleware](set2/n6-middleware) |
 
 ## How to Run
 
-Requires Node.js. Open a terminal in the repository folder, then run the commands below. Stop a running server with `Ctrl + C`.
 
 ## Set 1
 
@@ -36,8 +28,6 @@ cd set1/n1-setup
 npm install
 npm start
 ```
-
-
 
 ### N2 – Modular Calculator
 
@@ -58,35 +48,6 @@ node index.js read sample.txt
 node index.js update sample.txt "More text"
 node index.js delete sample.txt
 node index.js list
-```
-
-
-## Set 2
-
-### N4 – Basic HTTP Server
-
-```bash
-cd set2/n4-server
-node server.js
-# open http://localhost:8000
-```
-
-
-### N5 – REST-style API
-
-```bash
-cd set2/n5-api
-node server.js
-# test http://localhost:8000/api/students
-```
-
-
-### N6 – Middleware and API Testing
-
-```bash
-cd set2/n6-middleware
-node server.js
-# test with Thunder Client or Postman
 ```
 
 
